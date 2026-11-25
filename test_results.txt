@@ -1,0 +1,122 @@
+
+01-warehouse-inventory
+PASS: reconciliation
+PASS: zero stock
+PASS: dispatch all stock
+PASS: impossible dispatch
+PASS: negative quantity
+PASS: duplicate product
+PASS: missing field
+PASS: invalid count
+8 tests passed
+
+02-parking-fee
+PASS: overnight
+PASS: one minute
+PASS: exact hour
+PASS: started next hour
+PASS: daily cap with penalty
+PASS: two days plus minute
+PASS: reverse interval
+PASS: equal times
+PASS: invalid hour
+PASS: invalid category
+PASS: invalid ticket flag
+PASS: nonnumeric time
+12 tests passed
+
+03-numeric-pattern
+PASS: normal diamond
+PASS: minimum dimension
+PASS: maximum dimension
+PASS: zero
+PASS: too large
+PASS: negative
+PASS: decimal
+PASS: letters
+8 tests passed
+
+04-password-policy
+PASS: valid at minimum length
+PASS: several failures
+PASS: short password
+PASS: empty password
+PASS: case insensitive banned word
+PASS: missing uppercase
+PASS: missing lowercase
+PASS: unsupported special
+PASS: two repeats allowed
+PASS: three repeats rejected
+10 tests passed
+
+05-answer-evaluation
+PASS: mixed students
+PASS: all blank
+PASS: mixed score
+PASS: lowercase allowed
+PASS: invalid key
+PASS: wrong answer length
+PASS: bad answer character
+PASS: duplicate ID
+8 tests passed
+
+06-text-compression
+PASS: compressible
+PASS: all distinct
+PASS: empty text
+PASS: one character
+PASS: equal lengths
+PASS: multi digit count
+PASS: spaces preserved
+PASS: case sensitive
+PASS: digit characters
+9 tests passed
+
+07-calendar-generator
+PASS: Thursday start
+PASS: Monday four full weeks
+PASS: Sunday start 31 days
+PASS: 29 days
+PASS: weekday out of range
+PASS: invalid short month
+PASS: negative weekday
+PASS: nonnumeric
+8 tests passed
+
+08-examination-eligibility
+PASS: exact thresholds
+PASS: all conditions fail
+PASS: fully eligible
+PASS: below attendance boundary
+PASS: zero held classes
+PASS: attended exceeds held
+PASS: invalid labs
+PASS: invalid fee flag
+PASS: nonnumeric input
+9 tests passed
+
+09-marks-matrix
+PASS: matrix and tied toppers
+PASS: single zero
+PASS: 40 boundary not low
+PASS: maximum mark
+PASS: too high mark
+PASS: negative mark
+PASS: ragged matrix
+PASS: zero students
+PASS: bad dimensions
+9 tests passed
+
+10-relief-allocation
+PASS: priority and shortages
+PASS: stable tie
+PASS: zero stock
+PASS: surplus stock
+PASS: negative stock
+PASS: negative demand
+PASS: duplicate names
+PASS: wrong demand shape
+PASS: invalid count
+9 tests passed
+
+All 10 case studies passed (90 tests).

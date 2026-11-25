@@ -1,0 +1,11 @@
+PASS: valid at minimum length
+PASS: several failures
+PASS: short password
+PASS: empty password
+PASS: case insensitive banned word
+PASS: missing uppercase
+PASS: missing lowercase
+PASS: unsupported special
+PASS: two repeats allowed
+PASS: three repeats rejected
+10 tests passed

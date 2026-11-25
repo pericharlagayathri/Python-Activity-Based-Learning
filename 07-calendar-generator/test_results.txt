@@ -1,0 +1,9 @@
+PASS: Thursday start
+PASS: Monday four full weeks
+PASS: Sunday start 31 days
+PASS: 29 days
+PASS: weekday out of range
+PASS: invalid short month
+PASS: negative weekday
+PASS: nonnumeric
+8 tests passed

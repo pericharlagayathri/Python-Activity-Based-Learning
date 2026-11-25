@@ -1,0 +1,2 @@
+Entry day hour minute: Exit day hour minute: Vehicle (bike/car/truck): Lost ticket (yes/no): Duration (minutes): 270
+Parking fee: Rs. 100

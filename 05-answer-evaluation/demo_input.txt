@@ -1,0 +1,5 @@
+ABCD
+3
+S1 ABCD
+S2 AB-D
+S3 DCBA

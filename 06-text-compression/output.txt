@@ -1,0 +1,4 @@
+Text: Encoded: a3b2c4
+Original length: 9
+Encoded length: 6
+Beneficial; characters saved: 3

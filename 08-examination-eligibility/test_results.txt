@@ -1,0 +1,10 @@
+PASS: exact thresholds
+PASS: all conditions fail
+PASS: fully eligible
+PASS: below attendance boundary
+PASS: zero held classes
+PASS: attended exceeds held
+PASS: invalid labs
+PASS: invalid fee flag
+PASS: nonnumeric input
+9 tests passed

@@ -1,0 +1,9 @@
+PASS: reconciliation
+PASS: zero stock
+PASS: dispatch all stock
+PASS: impossible dispatch
+PASS: negative quantity
+PASS: duplicate product
+PASS: missing field
+PASS: invalid count
+8 tests passed

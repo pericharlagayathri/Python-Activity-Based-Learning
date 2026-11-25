@@ -1,0 +1,10 @@
+PASS: matrix and tied toppers
+PASS: single zero
+PASS: 40 boundary not low
+PASS: maximum mark
+PASS: too high mark
+PASS: negative mark
+PASS: ragged matrix
+PASS: zero students
+PASS: bad dimensions
+9 tests passed

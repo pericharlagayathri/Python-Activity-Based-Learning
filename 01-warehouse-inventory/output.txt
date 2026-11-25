@@ -1,0 +1,4 @@
+Number of products: Name opening incoming dispatched closing target: Name opening incoming dispatched closing target: Name opening incoming dispatched closing target: Pens expected: 18 actual: 18 discrepancy: 0 replenish: 7
+Books expected: 40 actual: 37 discrepancy: -3 replenish: 3
+Files expected: 8 actual: 10 discrepancy: 2 replenish: 0
+Products with discrepancies: 2

@@ -1,0 +1,9 @@
+PASS: normal diamond
+PASS: minimum dimension
+PASS: maximum dimension
+PASS: zero
+PASS: too large
+PASS: negative
+PASS: decimal
+PASS: letters
+8 tests passed

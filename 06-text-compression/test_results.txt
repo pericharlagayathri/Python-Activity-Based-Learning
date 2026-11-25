@@ -1,0 +1,10 @@
+PASS: compressible
+PASS: all distinct
+PASS: empty text
+PASS: one character
+PASS: equal lengths
+PASS: multi digit count
+PASS: spaces preserved
+PASS: case sensitive
+PASS: digit characters
+9 tests passed

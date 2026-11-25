@@ -1,0 +1,10 @@
+PASS: priority and shortages
+PASS: stable tie
+PASS: zero stock
+PASS: surplus stock
+PASS: negative stock
+PASS: negative demand
+PASS: duplicate names
+PASS: wrong demand shape
+PASS: invalid count
+9 tests passed

@@ -1,0 +1,9 @@
+PASS: mixed students
+PASS: all blank
+PASS: mixed score
+PASS: lowercase allowed
+PASS: invalid key
+PASS: wrong answer length
+PASS: bad answer character
+PASS: duplicate ID
+8 tests passed

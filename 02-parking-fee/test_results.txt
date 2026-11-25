@@ -1,0 +1,13 @@
+PASS: overnight
+PASS: one minute
+PASS: exact hour
+PASS: started next hour
+PASS: daily cap with penalty
+PASS: two days plus minute
+PASS: reverse interval
+PASS: equal times
+PASS: invalid hour
+PASS: invalid category
+PASS: invalid ticket flag
+PASS: nonnumeric time
+12 tests passed

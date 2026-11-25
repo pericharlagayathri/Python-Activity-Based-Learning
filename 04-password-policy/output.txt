@@ -1,0 +1,5 @@
+Password: FAIL
+- missing digit
+- missing special character (!@#$%)
+- three consecutive identical characters
+- prohibited substring: admin
