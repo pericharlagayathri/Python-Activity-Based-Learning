@@ -1,4 +1,5 @@
-Password: FAIL
+Password: aaaAdmin
+FAIL
 - missing digit
 - missing special character (!@#$%)
 - three consecutive identical characters

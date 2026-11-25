@@ -269,10 +269,11 @@ PASS: digit characters
 
 ![Captured program output](output_screenshot.png)
 
-Image rendered from the actual execution saved in `output.txt`:
+Terminal-style image rendered from the real interactive session in `output.txt` (including entered sample input):
 
 ```text
-Text: Encoded: a3b2c4
+Text: aaabbcccc
+Encoded: a3b2c4
 Original length: 9
 Encoded length: 6
 Beneficial; characters saved: 3

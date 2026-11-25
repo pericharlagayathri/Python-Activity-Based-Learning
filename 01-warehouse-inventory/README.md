@@ -259,10 +259,14 @@ PASS: invalid count
 
 ![Captured program output](output_screenshot.png)
 
-Image rendered from the actual execution saved in `output.txt`:
+Terminal-style image rendered from the real interactive session in `output.txt` (including entered sample input):
 
 ```text
-Number of products: Name opening incoming dispatched closing target: Name opening incoming dispatched closing target: Name opening incoming dispatched closing target: Pens expected: 18 actual: 18 discrepancy: 0 replenish: 7
+Number of products: 3
+Name opening incoming dispatched closing target: Pens 20 10 12 18 25
+Name opening incoming dispatched closing target: Books 50 10 20 37 40
+Name opening incoming dispatched closing target: Files 10 0 2 10 5
+Pens expected: 18 actual: 18 discrepancy: 0 replenish: 7
 Books expected: 40 actual: 37 discrepancy: -3 replenish: 3
 Files expected: 8 actual: 10 discrepancy: 2 replenish: 0
 Products with discrepancies: 2

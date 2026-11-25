@@ -297,10 +297,14 @@ PASS: bad dimensions
 
 ![Captured program output](output_screenshot.png)
 
-Image rendered from the actual execution saved in `output.txt`:
+Terminal-style image rendered from the real interactive session in `output.txt` (including entered sample input):
 
 ```text
-Students subjects: Student marks: Student marks: Student marks: Student 1 total: 180 average: 60.0 min: 30 max: 80
+Students subjects: 3 3
+Student marks: 80 30 70
+Student marks: 90 20 70
+Student marks: 50 40 60
+Student 1 total: 180 average: 60.0 min: 30 max: 80
 Student 2 total: 180 average: 60.0 min: 20 max: 90
 Student 3 total: 150 average: 50.0 min: 40 max: 60
 Top students: [1, 2] total: 180

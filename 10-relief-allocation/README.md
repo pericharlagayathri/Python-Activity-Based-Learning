@@ -300,10 +300,15 @@ PASS: invalid count
 
 ![Captured program output](output_screenshot.png)
 
-Image rendered from the actual execution saved in `output.txt`:
+Terminal-style image rendered from the real interactive session in `output.txt` (including entered sample input):
 
 ```text
-Available water food: Number of areas: Area urgency water_needed food_needed: Area urgency water_needed food_needed: Area urgency water_needed food_needed: South allocated: [7, 6] unmet: [0, 0]
+Available water food: 10 8
+Number of areas: 3
+Area urgency water_needed food_needed: North 2 6 5
+Area urgency water_needed food_needed: South 5 7 6
+Area urgency water_needed food_needed: East 1 2 3
+South allocated: [7, 6] unmet: [0, 0]
 North allocated: [3, 2] unmet: [3, 3]
 East allocated: [0, 0] unmet: [2, 3]
 Stock remaining: [0, 0]

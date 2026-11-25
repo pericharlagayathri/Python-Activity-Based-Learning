@@ -1,4 +1,6 @@
-Attended held labs_completed internal_marks: Fees cleared (yes/no): Attendance: 70.0 %
+Attended held labs_completed internal_marks: 14 20 6 35
+Fees cleared (yes/no): no
+Attendance: 70.0 %
 NOT ELIGIBLE
 - attendance below 75%
 - fewer than 8 completed labs

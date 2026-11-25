@@ -276,10 +276,11 @@ PASS: three repeats rejected
 
 ![Captured program output](output_screenshot.png)
 
-Image rendered from the actual execution saved in `output.txt`:
+Terminal-style image rendered from the real interactive session in `output.txt` (including entered sample input):
 
 ```text
-Password: FAIL
+Password: aaaAdmin
+FAIL
 - missing digit
 - missing special character (!@#$%)
 - three consecutive identical characters

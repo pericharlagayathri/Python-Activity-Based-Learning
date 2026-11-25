@@ -268,10 +268,12 @@ PASS: nonnumeric input
 
 ![Captured program output](output_screenshot.png)
 
-Image rendered from the actual execution saved in `output.txt`:
+Terminal-style image rendered from the real interactive session in `output.txt` (including entered sample input):
 
 ```text
-Attended held labs_completed internal_marks: Fees cleared (yes/no): Attendance: 70.0 %
+Attended held labs_completed internal_marks: 14 20 6 35
+Fees cleared (yes/no): no
+Attendance: 70.0 %
 NOT ELIGIBLE
 - attendance below 75%
 - fewer than 8 completed labs

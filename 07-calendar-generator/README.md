@@ -245,10 +245,12 @@ PASS: nonnumeric
 
 ![Captured program output](output_screenshot.png)
 
-Image rendered from the actual execution saved in `output.txt`:
+Terminal-style image rendered from the real interactive session in `output.txt` (including entered sample input):
 
 ```text
-Starting weekday (Monday=0): Number of days (28-31): Calendar:
+Starting weekday (Monday=0): 3
+Number of days (28-31): 30
+Calendar:
 Mo Tu We Th Fr Sa Su
           1  2  3  4
  5  6  7  8  9 10 11

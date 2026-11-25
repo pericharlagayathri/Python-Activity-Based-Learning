@@ -269,12 +269,17 @@ PASS: duplicate ID
 
 ![Captured program output](output_screenshot.png)
 
-Image rendered from the actual execution saved in `output.txt`:
+Terminal-style image rendered from the real interactive session in `output.txt` (including entered sample input):
 
 ```text
-Answer key (A-D): Number of students: Student ID and answers (- for blank): S1 correct: 4 incorrect: 0 unanswered: 0 score: 16
-Student ID and answers (- for blank): S2 correct: 3 incorrect: 0 unanswered: 1 score: 12
-Student ID and answers (- for blank): S3 correct: 0 incorrect: 4 unanswered: 0 score: -4
+Answer key (A-D): ABCD
+Number of students: 3
+Student ID and answers (- for blank): S1 ABCD
+S1 correct: 4 incorrect: 0 unanswered: 0 score: 16
+Student ID and answers (- for blank): S2 AB-D
+S2 correct: 3 incorrect: 0 unanswered: 1 score: 12
+Student ID and answers (- for blank): S3 DCBA
+S3 correct: 0 incorrect: 4 unanswered: 0 score: -4
 ```
 
 ## Conclusion

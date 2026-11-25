@@ -21,7 +21,7 @@
 
 Each folder contains the ten required sections in `README.md`, the program
 (`solution.py`), flowchart (`flowchart.png`), sample input (`demo_input.txt`),
-captured output (`output.txt` and `output_screenshot.png`), and test cases with
+interactive terminal output (`output.txt` and `output_screenshot.png`), and test cases with
 results (`test_cases.py` and `test_results.txt`).
 
 [Combined PDF: all 10 case studies](Python-Activity-Based-Learning-Complete.pdf)
@@ -58,6 +58,11 @@ solutions use only basic input/output, variables, operators, conditionals, loops
 strings, lists, nested lists, tuples and unpacking from the assigned syllabus.
 All numerical rules not specified in the main assignment are stated explicitly
 under Assumptions. Input prompts specify the expected fields.
+
+Flowcharts use the reference repository's coloured standard symbols and labelled
+branches. Output images use its dark terminal style, rendered from real
+interactive sessions with sample input echoed. The PDF uses blue headings and
+divider lines like the supplied reference PDF.
 
 The supplied main assignment defines the requirements. The supplied second PDF
 and [reference repository](https://github.com/emmanuelgotru/Python-Activity-Based-Learning)

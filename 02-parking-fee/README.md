@@ -336,10 +336,14 @@ PASS: nonnumeric time
 
 ![Captured program output](output_screenshot.png)
 
-Image rendered from the actual execution saved in `output.txt`:
+Terminal-style image rendered from the real interactive session in `output.txt` (including entered sample input):
 
 ```text
-Entry day hour minute: Exit day hour minute: Vehicle (bike/car/truck): Lost ticket (yes/no): Duration (minutes): 270
+Entry day hour minute: 1 22 0
+Exit day hour minute: 2 2 30
+Vehicle (bike/car/truck): car
+Lost ticket (yes/no): no
+Duration (minutes): 270
 Parking fee: Rs. 100
 ```
 

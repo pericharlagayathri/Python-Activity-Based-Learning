@@ -221,10 +221,11 @@ PASS: letters
 
 ![Captured program output](output_screenshot.png)
 
-Image rendered from the actual execution saved in `output.txt`:
+Terminal-style image rendered from the real interactive session in `output.txt` (including entered sample input):
 
 ```text
-Dimension (1-9): Pattern:
+Dimension (1-9): 4
+Pattern:
    1
   121
  12321
