@@ -2,7 +2,7 @@
 
 **Name:** Pericharla Gayathri  
 **Roll No:** 26000690  
-**Section:** Section-2
+**Section:** Section-4
 
 ## Selected case studies
 
